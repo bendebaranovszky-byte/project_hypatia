@@ -1,4 +1,4 @@
 Készítette:
-Földesi Péter
-Glőkner Gergő Walter
-Baranovszky Bende
+Földesi Péter,
+Glőkner Gergő Walter,
+Baranovszky Bende,
